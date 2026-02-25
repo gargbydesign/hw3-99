@@ -5,6 +5,12 @@ class PlacesController < ApplicationController
   end
 
   def new
+    render :template => "places/new"
+  end
+
+  def show
+    @place = Place.find_by(params["id"])
+    @entries = Entry.where("place_id" => @place["id"])
   end
 
   def create
