@@ -1,0 +1,7 @@
+User Stories
+For this assignment, assume it's just for your personal use. We will learn how to adapt it for multiple users later.
+
+As me, I want to see a list of places, so I can remember all the places I've visited and find their journal entries.
+As me, I want to be able to add a new place (with its name), so I can see it in the list of places I've visited.
+As me, I want to be able to click on the name of a place and see a list of its entries, so I can remember the things I did while I was there.
+As me, I want to log new entries for a place (including title, description, and date), so I can keep track of all the things I did in each place.
